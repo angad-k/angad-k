@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 # I am Angad Kambli!
+### I'm a CSE undergrad at Indian Institute Of Technology, Roorkee. Also, I'm a developer at [SDSLabs](https://github.com/sdslabs)<br>
 ![](https://github-readme-stats.vercel.app/api?username=angad-k&theme=algolia&show_icons=true&hide_rank=false&count_private=true&hide=stars&include_all_commits=true) <br>
-I'm a CSE undergrad at Indian Institute Of Technology, Roorkee. I'm a developer at [SDSLabs](https://github.com/sdslabs)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angad-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **angad-k/angad-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
