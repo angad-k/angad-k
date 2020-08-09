@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I am Angad Kambli!
-i'm a CSE undergrad at Indian Institute Of Technology, Roorkee. <br>
 ![](https://github-readme-stats.vercel.app/api?username=angad-k&theme=algolia&show_icons=true&hide_rank=false&count_private=true&hide=stars&include_all_commits=true) <br>
+I'm a CSE undergrad at Indian Institute Of Technology, Roorkee. I'm a developer at [SDSLabs](https://github.com/sdslabs)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angad-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
