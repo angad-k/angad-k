@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Angad Kambli!
-A CSE undergrad at Indian Institute Of Technology, Roorkee.
+A CSE undergrad at Indian Institute Of Technology, Roorkee. <br>
 ![](https://github-readme-stats.vercel.app/api?username=angad-k&theme=algolia&show_icons=true&hide_rank=true&count_private=true&hide=stars&include_all_commits=true)
 
 <!--
