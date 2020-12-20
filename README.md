@@ -1,9 +1,11 @@
 ### Hi there 👋 
 # I am Angad Kambli!
 ### I'm a CSE undergrad at Indian Institute Of Technology, Roorkee. Also, I'm a developer at [SDSLabs](https://github.com/sdslabs)<br>
+### Check out my portfolio: https://angad-k.github.io/ <br>
+
 ![](https://github-readme-stats.vercel.app/api?username=angad-k&theme=algolia&show_icons=true&hide_rank=true&count_private=true&hide=stars&include_all_commits=true) <br>
 
-
+![](https://komarev.com/ghpvc/?username=angad-k)
 <!--
 **angad-k/angad-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
