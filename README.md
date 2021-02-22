@@ -1,7 +1,9 @@
 ### Hi there 👋 
-# I am Angad Kambli!
-### I'm a CSE undergrad at Indian Institute Of Technology, Roorkee. Also, I'm a developer at [SDSLabs](https://github.com/sdslabs)<br>
-### Check out my portfolio: https://angad-k.github.io/ <br>
+### I am Angad Kambli!
+I'm a CSE undergrad at Indian Institute Of Technology, Roorkee. Also, I'm a developer at [SDSLabs](https://github.com/sdslabs)<br>
+Check out my portfolio [here](https://angad-k.github.io/) <br>
+Check out my work with Blender [here](https://angad-k.github.io/Blender-miscellaneous/)
+Check out the trailer for a game I worked on [here](https://www.youtube.com/watch?v=5Tt7xaWk7xc) and its demo [here](https://www.youtube.com/watch?v=wKX5zSucAck)
 
 ![](https://github-readme-stats.vercel.app/api?username=angad-k&theme=algolia&show_icons=true&hide_rank=true&count_private=true&hide=stars&include_all_commits=true) <br>
 <!--
