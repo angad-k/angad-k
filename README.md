@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I am Angad Kambli!
-⚡ I'm a CSE undergrad at Indian Institute Of Technology, Roorkee. Also, I'm a developer at [SDSLabs](https://github.com/sdslabs).<br>
+⚡ I'm a CSE graduate from Indian Institute Of Technology, Roorkee. Also, I was a developer at [SDSLabs](https://github.com/sdslabs) during my time at IIT Roorkee.<br>
 ⚡ Check out my portfolio [here](https://angad-k.github.io/). <br>
 ⚡ Check out my work with Blender [here](https://angad-k.github.io/Blender-miscellaneous/). <br>
 ⚡ Check out the trailer for a game I worked on [here](https://www.youtube.com/watch?v=5Tt7xaWk7xc) and its demo [here](https://www.youtube.com/watch?v=wKX5zSucAck).
